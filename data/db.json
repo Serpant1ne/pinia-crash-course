@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "title": "make a Chili Bomb",
+      "id": 123456,
+      "isFavorite": true
+    },
+    {
+      "title": "Create a Uni",
+      "id": 234567,
+      "isFavorite": true
+    },
+    {
+      "title": "Plant a tree",
+      "id": 456789,
+      "isFavorite": false
+    },
+    {
+      "title": "create a Pinia",
+      "id": 567890,
+      "isFavorite": true
+    },
+    {
+      "title": "make a Sandwich",
+      "isFavorite": true,
+      "id": 997886
+    }
+  ]
+}
